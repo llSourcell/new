@@ -16,7 +16,7 @@
 * [Blockchain School](module-3-developer-resources/blockchain-school.md)
 * [Figment Learn](module-3-developer-resources/figment-learn.md)
 * [GitHub Examples](module-3-developer-resources/github-examples.md)
-* [Existing Dapps](module-3-developer-resources/existing-dapps.md)
+* [Need Inspiration?](module-3-developer-resources/need-inspiration.md)
 * [Polygon TV](module-3-developer-resources/polygon-tv.md)
 * [Questbook](module-3-developer-resources/questbook.md)
 * [Polygon Documentation](module-3-developer-resources/polygon-documentation.md)
@@ -27,6 +27,7 @@
 * [Architecture](module-4-core-concepts/architecture.md)
 * [Network](module-4-core-concepts/network.md)
 * [The Ethereum Bridge](module-4-core-concepts/the-ethereum-bridge.md)
+* [Accounts & Transactions](module-4-core-concepts/accounts-and-transactions.md)
 
 ## Module 5: Developer Challenge
 

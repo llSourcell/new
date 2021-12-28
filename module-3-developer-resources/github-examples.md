@@ -1,7 +1,5 @@
 # GitHub Examples
 
-Did you know we have a github repository full of helpful starter projects? Check it out here&#x20;
-
-
+Did you know we have a Github repository full of helpful starter projects? Fork and start building right away! Check it out here:
 
 {% embed url="https://github.com/Polygon-Academy" %}
