@@ -7,4 +7,4 @@ description: >-
 
 # Eat the Blocks
 
-{% embed url="https://eattheblocks-pro.teachable.com/p/live-training-2-develop-blockchain-apps-on-polygon" %}
+{% embed url="https://eattheblocks-pro.teachable.com/p/polygon-development" %}
