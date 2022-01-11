@@ -20,7 +20,6 @@
 * [Polygon TV](module-3-developer-resources/polygon-tv.md)
 * [Questbook](module-3-developer-resources/questbook.md)
 * [Polygon Documentation](module-3-developer-resources/polygon-documentation.md)
-* [Polygon SDK](module-3-developer-resources/polygon-sdk.md)
 
 ## Module 4: Core Concepts
 
