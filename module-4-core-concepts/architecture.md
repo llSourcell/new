@@ -8,7 +8,7 @@ On top of a distributed consensus layer powered by various checkpoint nodes and 
 
 As a hybrid chain, the Polygon PoS chain maintains its liveliness while being able to support any arbitrary transactions at lightning speeds. Polygon also has reduced the time it takes to bridge funds to and from the Ethereum mainnet.
 
-To enable the PoS mechanism on our platform, a set of **staking** management contracts are deployed on Ethereum, as well as a set of incentivized validators running **Heimdall** and **Bor** nodes. Ethereum is the first basechain Polygon supports, but Polygon intends to offer support for additional basechains, based on community suggestions and consensus, to enable an interoperable decentralized Layer 2 blockchain platform.
+To enable the PoS mechanism on our platform, a set of **staking** management contracts are deployed on Ethereum, as well as a set of incentivized validators running **Heimdall** and **Bor** nodes. Ethereum is the first basechain Polygon supports, but Polygon intends to offer support for additional basechains (such as Zero or Miden) based on community suggestions and consensus to enable an interoperable decentralized Layer 2 blockchain platform.
 
 Polygon has a three-layer architecture:
 
