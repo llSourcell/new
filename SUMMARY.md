@@ -12,6 +12,7 @@
 
 ## Module 3: Developer Resources
 
+* [Resources Explained](module-3-developer-resources/resources-explained.md)
 * [Eat the Blocks](module-3-developer-resources/eat-the-blocks.md)
 * [Blockchain School](module-3-developer-resources/blockchain-school.md)
 * [Figment Learn](module-3-developer-resources/figment-learn.md)
