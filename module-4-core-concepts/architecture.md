@@ -2,11 +2,11 @@
 
 ## Polygon <a href="#polygon" id="polygon"></a>
 
-Polygon is a blockchain application platform that provides hybrid Proof-of-Stake and Plasma-enabled sidechains.
+Polygon PoS is an Ethereum-based, Proof-of-Stake and Plasma-enabled hybrid sidechain whose sub-second finality times and extremely low fees provide dApps with an unparalleled user experience.
 
-Architecturally, the beauty of Polygon is its elegant design, which features a generic validation layer separated from varying execution environments like Plasma enabled chains, full-blown EVM sidechains, and in the future, other Layer 2 approaches such as Optimistic Rollups.
+On top of a distributed consensus layer powered by various checkpoint nodes and an application/execution layer that can achieve up to 2^16 transactions per second, Polygon PoS is fully compatible with Ethereum.
 
-Currently, developers can use **Plasma** for specific state transitions for which Plasma predicates have been written such as ERC20, ERC721, asset swaps, or other custom predicates. For arbitrary state transitions, they can use PoS. Or both! This is made possible by Polygon's hybrid construction.
+As a hybrid chain, the Polygon PoS chain maintains its liveliness while being able to support any arbitrary transactions at lightning speeds. Polygon also has reduced the time it takes to bridge funds to and from the Ethereum mainnet.
 
 To enable the PoS mechanism on our platform, a set of **staking** management contracts are deployed on Ethereum, as well as a set of incentivized validators running **Heimdall** and **Bor** nodes. Ethereum is the first basechain Polygon supports, but Polygon intends to offer support for additional basechains, based on community suggestions and consensus, to enable an interoperable decentralized Layer 2 blockchain platform.
 
