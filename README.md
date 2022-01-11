@@ -16,11 +16,11 @@ Once you successfully setup your environment, you’ll need to review core conce
 
 **Level 1:** Apprentice badge (Run the Dapp Starter Kit on your local machine)
 
-**Level 2:** Developer badge (Complete Mid-term Assigment #1)
+**Level 2:** Developer badge (Complete Mid-term Assignment #1)
 
-**Level 3:** Warrior badge (Complete Mid-term Assigment #2)
+**Level 3:** Warrior badge (Complete Mid-term Assignment #2)
 
-**Level 4:** Wizard badge (Complete Final Assigment)
+**Level 4:** Wizard badge (Complete Final Assignment)
 
 **Community Resources:**
 
