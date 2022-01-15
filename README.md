@@ -24,7 +24,7 @@ Once you successfully setup your environment, you’ll need to review core conce
 
 **Community Resources:**
 
-[Discord](https://discord.com/invite/XvpHAxZ)  ![Discord](https://emoji.gg/assets/emoji/5244-discord.png) | [Reddit](https://www.reddit.com/r/0xPolygon/) ![Reddit](https://emoji.gg/assets/emoji/9100-reddit.png) | [GitHub](https://github.com/maticnetwork/) ![githubblack](https://emoji.gg/assets/emoji/6705-githubblack.png) | 🔗[Website](https://polygon.technology)
+[Discord](https://discord.com/invite/XvpHAxZ)  ![Discord](https://emoji.gg/assets/emoji/5244-discord.png) | [Reddit](https://www.reddit.com/r/0xPolygon/) ![Reddit](https://emoji.gg/assets/emoji/9100-reddit.png) | [GitHub](https://github.com/maticnetwork/) ![githubblack](https://emoji.gg/assets/emoji/6705-githubblack.png) | [Website](https://polygon.technology) 🔗
 
 
 
