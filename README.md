@@ -4,7 +4,7 @@ description: Welcome to Polygon Academy!
 
 # Joining the Academy
 
-![](https://polygon.technology/wp-content/uploads/2021/07/polygon-logo.svg)
+![](.gitbook/assets/polygon-logo.png)
 
 {% embed url="https://youtu.be/ep5N7_IGAVY" %}
 
