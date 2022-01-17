@@ -7,5 +7,3 @@ Submit a full stack social media dapp as your final assignment. The dapp lets a 
 [Submission link ](https://ce6xacyp6x0.typeform.com/to/yOMq8Bjz)\
 \
 ✅ You'll receive the **Wizard NFT** badge after completing this.
-
-{% embed url="https://mobile.twitter.com/0xpolygondevs" %}

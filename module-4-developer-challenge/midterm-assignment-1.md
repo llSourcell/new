@@ -9,5 +9,3 @@ Possibilities include retrieving all past transactions for a user address (GET) 
 [Submission link ](https://ce6xacyp6x0.typeform.com/to/yOMq8Bjz)
 
 ✅ You'll receive the **Developer NFT** badge after completing this.
-
-{% embed url="https://mobile.twitter.com/0xpolygondevs" %}

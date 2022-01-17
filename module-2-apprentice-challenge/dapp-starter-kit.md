@@ -14,8 +14,6 @@ Make a small change to the dapp, by modifying the index.html page to print 'hell
 
 ✅ You'll receive the **Apprentice NFT** badge after completing this.
 
-{% embed url="https://mobile.twitter.com/0xpolygondevs" %}
-
 {% embed url="https://github.com/Polygon-Academy/starter-kits" %}
 Dapp Starter Kit
 {% endembed %}

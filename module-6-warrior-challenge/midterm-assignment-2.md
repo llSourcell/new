@@ -7,5 +7,3 @@ Build a dapp that let's a user submit Ether to a smart contract as collateral an
 [Submission link ](https://ce6xacyp6x0.typeform.com/to/yOMq8Bjz)
 
 ✅ You'll receive the **Warrior NFT** badge after completing this.
-
-{% embed url="https://mobile.twitter.com/0xpolygondevs" %}
