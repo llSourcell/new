@@ -5,6 +5,7 @@
 * [Joining the Academy](README.md)
 * [Introduction to Ethereum](module-1-getting-started/introduction-to-ethereum.md)
 * [Environment Setup & Installation](module-1-getting-started/environment-setup-and-installation.md)
+* [Contributing](module-1-getting-started/contributing.md)
 
 ## Module 2: Apprentice Challenge
 
