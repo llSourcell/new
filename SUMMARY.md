@@ -18,10 +18,10 @@
 * [Blockchain School](module-3-developer-resources/blockchain-school.md)
 * [Figment Learn](module-3-developer-resources/figment-learn.md)
 * [GitHub Examples](module-3-developer-resources/github-examples.md)
-* [Need Inspiration?](module-3-developer-resources/need-inspiration.md)
 * [Polygon TV](module-3-developer-resources/polygon-tv.md)
 * [Questbook](module-3-developer-resources/questbook.md)
 * [Polygon Documentation](module-3-developer-resources/polygon-documentation.md)
+* [Need More Inspiration?](module-3-developer-resources/need-more-inspiration.md)
 
 ## Module 4: Developer Challenge
 
