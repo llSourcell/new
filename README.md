@@ -1,10 +1,8 @@
 ---
-description: Welcome to Polygon Academy!
+description: Welcome..!
 ---
 
-# Joining the Academy
-
-![](.gitbook/assets/polygon-logo.png)
+# Join the Polygon Academy
 
 {% embed url="https://youtu.be/T56yIlVzAK4" %}
 
